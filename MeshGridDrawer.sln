@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeshGridDrawer", "MeshGridDrawer\MeshGridDrawer.csproj", "{F7B33833-D65D-4B23-B150-8E4C97656B79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7B33833-D65D-4B23-B150-8E4C97656B79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7B33833-D65D-4B23-B150-8E4C97656B79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7B33833-D65D-4B23-B150-8E4C97656B79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7B33833-D65D-4B23-B150-8E4C97656B79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9768CCFB-3209-46C5-9378-0A245A392878}
+	EndGlobalSection
+EndGlobal
